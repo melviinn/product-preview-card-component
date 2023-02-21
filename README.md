@@ -19,7 +19,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 - Solution URL: [melviinn/product-preview-card-component](https://www.frontendmentor.io/solutions/qr-code-challenge-SyH5p78QuX)
-- Live Site URL: [qr-code-challenge-rust.vercel.app](qr-code-challenge-rust.vercel.app)
+- Live Site URL: [product-preview-card-component.vercel.app](https://product-preview-card-component-six-chi.vercel.app/)
 
 ## My process
 
