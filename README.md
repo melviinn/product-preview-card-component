@@ -1,8 +1,7 @@
 # Frontend Mentor - Product preview card component solution
 
-<img src="images/page-design-desktop.jpg" width="45%" height="400">
-
-<img src="images/page-design-mobile.jpg" width="45%" height="400">
+![](/images/page-design-desktop.jpg)
+<img src="images/page-design-mobile.jpg" width="50%" height="400">
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
